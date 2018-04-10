@@ -1,0 +1,12 @@
+c:\git\github\Authenticate\Authenticate\bin\Debug\netcoreapp2.0\Authenticate.deps.json
+c:\git\github\Authenticate\Authenticate\bin\Debug\netcoreapp2.0\Authenticate.runtimeconfig.json
+c:\git\github\Authenticate\Authenticate\bin\Debug\netcoreapp2.0\Authenticate.runtimeconfig.dev.json
+c:\git\github\Authenticate\Authenticate\bin\Debug\netcoreapp2.0\Authenticate.dll
+c:\git\github\Authenticate\Authenticate\bin\Debug\netcoreapp2.0\Authenticate.pdb
+c:\git\github\Authenticate\Authenticate\obj\Debug\netcoreapp2.0\Authenticate.csprojResolveAssemblyReference.cache
+c:\git\github\Authenticate\Authenticate\obj\Debug\netcoreapp2.0\Authenticate.csproj.CoreCompileInputs.cache
+c:\git\github\Authenticate\Authenticate\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\git\github\Authenticate\Authenticate\obj\Debug\netcoreapp2.0\Authenticate.AssemblyInfoInputs.cache
+c:\git\github\Authenticate\Authenticate\obj\Debug\netcoreapp2.0\Authenticate.AssemblyInfo.cs
+c:\git\github\Authenticate\Authenticate\obj\Debug\netcoreapp2.0\Authenticate.dll
+c:\git\github\Authenticate\Authenticate\obj\Debug\netcoreapp2.0\Authenticate.pdb
